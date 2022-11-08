@@ -1,0 +1,32 @@
+.cardwrapper{
+    display:flex;
+    justify-content: center;
+}
+.card{
+    width: 27vw;
+    margin-top: 5%;
+}
+.img{
+    width: 27vw;
+    margin-top: 2%;
+    text-align: center;
+}
+.instaLogo
+{
+    width: 15vw;
+    height: 10vh;
+}
+.imgsize
+{
+    margin-top: 2%;
+    width: 25vw;
+    height: 75vh;
+    position: relative;
+}
+.sliderimg
+{
+    position:absolute;
+    top:11.6%;
+    left: 33%;
+    width: 15vw;
+}
